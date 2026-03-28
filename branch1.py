@@ -1,1 +1,2 @@
-# これはfrist-branchにしかないファイルだよん
+# frist-branchにしかないファイルだよん
+# mergeしたのでmain branchと合流
